@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xingchendelu1_20240726_EASYflower", "xingchendelu1_20240726_EASYflower.csproj", "{F24ACAD6-441E-4FF6-8AA6-4C3E299A0EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F24ACAD6-441E-4FF6-8AA6-4C3E299A0EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24ACAD6-441E-4FF6-8AA6-4C3E299A0EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24ACAD6-441E-4FF6-8AA6-4C3E299A0EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24ACAD6-441E-4FF6-8AA6-4C3E299A0EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22FCF3D2-8820-4F4E-BEF1-95362E17685A}
+	EndGlobalSection
+EndGlobal
